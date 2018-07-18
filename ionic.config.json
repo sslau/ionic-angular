@@ -1,0 +1,8 @@
+{
+  "name": "ionic3-angular43-rest",
+  "app_id": "258694d9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
